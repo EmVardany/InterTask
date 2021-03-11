@@ -19,7 +19,7 @@ namespace InterTest
 
             List<string> dates = new List<string>();
             List<string> workHours = new List<string>();
-            using (StreamReader reader = new StreamReader(@"E:\Programming\InterLink\acme_worksheet.csv"))
+            using (StreamReader reader = new StreamReader(@"E:\Task\acme_worksheet.csv"))
             {
                 while (!reader.EndOfStream)
                 {
@@ -58,7 +58,7 @@ namespace InterTest
                 }
             }
 
-            using (StreamWriter writer = new StreamWriter(@"E:\Programming\InterLink\InterLink.csv"))
+            using (StreamWriter writer = new StreamWriter(@"E:\Task\InterLink.csv"))
             {
                 string titleStr = "";
 
@@ -68,7 +68,7 @@ namespace InterTest
                         {
                             var cultureInfo = new CultureInfo("uk-UA");
                             var dateTime = DateTime.Parse(dates[j], cultureInfo);
-                            dates[j] = dateTime.ToString("dd-MM-yyyy");
+                            dates[j] = dateTime.ToString("yyyy-MM-dd");
 
                         if (!titles.Contains(dates[j]))
                         {

@@ -11,3 +11,16 @@ E:\Programming\InterLink\InterTest\obj\Debug\netcoreapp3.1\InterTest.csproj.Core
 E:\Programming\InterLink\InterTest\obj\Debug\netcoreapp3.1\InterTest.dll
 E:\Programming\InterLink\InterTest\obj\Debug\netcoreapp3.1\InterTest.pdb
 E:\Programming\InterLink\InterTest\obj\Debug\netcoreapp3.1\InterTest.genruntimeconfig.cache
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.exe
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.deps.json
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.runtimeconfig.json
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.runtimeconfig.dev.json
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.dll
+E:\Task\InterTest\bin\Debug\netcoreapp3.1\InterTest.pdb
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.csprojAssemblyReference.cache
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.AssemblyInfoInputs.cache
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.AssemblyInfo.cs
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.csproj.CoreCompileInputs.cache
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.dll
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.pdb
+E:\Task\InterTest\obj\Debug\netcoreapp3.1\InterTest.genruntimeconfig.cache

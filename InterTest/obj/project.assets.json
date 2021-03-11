@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Task\\InterTest\\InterTest.csproj",
+      "projectUniqueName": "E:\\Task\\InterTest\\InterTest.csproj",
       "projectName": "InterTest",
-      "projectPath": "E:\\Programming\\Task\\InterTest\\InterTest.csproj",
+      "projectPath": "E:\\Task\\InterTest\\InterTest.csproj",
       "packagesPath": "C:\\Users\\Windows X\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\Task\\InterTest\\obj\\",
+      "outputPath": "E:\\Task\\InterTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows X\\AppData\\Roaming\\NuGet\\NuGet.Config",
