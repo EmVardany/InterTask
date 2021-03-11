@@ -1,0 +1,12 @@
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.exe
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.deps.json
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.runtimeconfig.json
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.runtimeconfig.dev.json
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.dll
+E:\Programming\InterLink\InterTest\bin\Release\netcoreapp3.1\InterTest.pdb
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.AssemblyInfoInputs.cache
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.AssemblyInfo.cs
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.csproj.CoreCompileInputs.cache
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.dll
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.pdb
+E:\Programming\InterLink\InterTest\obj\Release\netcoreapp3.1\InterTest.genruntimeconfig.cache
